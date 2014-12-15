@@ -1,0 +1,10 @@
+{
+  "name": "mgt-web-ui",
+  "options": {
+    "paths": [
+      "app"
+    ],
+    "exclude": "vendor",
+    "outdir": "docs"
+  }
+}
